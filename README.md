@@ -1,2 +1,2 @@
 # JSON_Server
-Setting up basic JSON server
+Setting up basic JSON server and creating a blog with several features.
